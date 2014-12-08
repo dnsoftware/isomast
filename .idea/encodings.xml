@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/protected/extensions/eauth/views/linkedServices.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/modules/user/controllers/ActivationController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/modules/user/controllers/ProfileController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/modules/user/controllers/RecoveryController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/modules/user/views/profile/changebutton.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/modules/user/views/profile/edit.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/protected/modules/user/views/profile/profile.php" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
+
